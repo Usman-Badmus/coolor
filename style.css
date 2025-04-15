@@ -27,10 +27,11 @@ body {
 }
 
 .nav2 {
-  width: 22%;
+  width: 35%;
   display: flex;
   justify-content: space-between;
   align-items: center;
+  /* border: 1px solid; */
 }
 
 .nav2One {
@@ -43,6 +44,11 @@ body {
   height: 100%;
   padding-top: 10px;
   padding-bottom: 10px;
+}
+
+.nav2Two {
+  /* border: 1px solid; */
+  display: flex;
 }
 
 span {
